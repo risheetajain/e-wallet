@@ -27,8 +27,8 @@ dependencies:
   toast: ^0.1.5
   tuple: ^1.0.3
   webdriver: ^2.1.2
-  provider: ^3.1.0
-  flutter_spinkit: "^4.0.0"
+  provider: 
+  flutter_spinkit: 
 
 dev_dependencies:
   flutter_test:
